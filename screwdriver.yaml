@@ -7,4 +7,4 @@ jobs:
             - ~pr
             - ~commit
         steps:
-            - echo: echo test
+            - echo: echo "I'm a fork"
